@@ -21,7 +21,7 @@ body
     display: flex;
     flex-direction: column;
     left: 0px;
-    width: 1200px;
+    width: 1300px;
     margin: 80px auto auto auto;
     background-image: linear-gradient(rgb(247, 247, 249),rgb(40, 110, 255),rgb(247, 247, 249),rgb(40, 110, 255),rgb(247, 247, 249));
 }
