@@ -37,6 +37,7 @@
 {
     height: 50px;
     width: auto;
+    z-index: inherit;
 }
 
 .btn-1

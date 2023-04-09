@@ -89,6 +89,7 @@ body
     padding-left: 70px;
     transform: rotate(-15deg);
     padding-top: 20px;
+    z-index: inherit;
 }
 
 .content
